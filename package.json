@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Функция принимает данные из аргументов и возвращает с помощью return.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/konkin.info/calculator.git"
+  },
+  "keywords": [],
+  "author": "Julien Bisconti <julienbi@unity3d.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/konkin.info/calculator/issues"
+  },
+  "homepage": "https://gitlab.com/konkin.info/calculator#readme"
+}
